@@ -1,0 +1,27 @@
+{
+  "name": "gulp-stylperjade",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tpgmartin/gulp-stylperjade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgmartin/gulp-stylperjade/issues"
+  },
+  "homepage": "https://github.com/tpgmartin/gulp-stylperjade",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "object-assign": "^3.0.0",
+    "stylperjade": "^1.2.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
